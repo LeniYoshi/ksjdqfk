@@ -39,6 +39,20 @@ Maintenant, placez un panneau dans ou devant la sous-zone écrit tel que :
 - Nom de la sous-zone
 - Prix quotidien
 
+{% hint style="info" %}
+N'oubliez pas d'ajouter le role Visiteur (ou tout autre rôle) en tant que Rôle locataire via le menu des Rôles dans le /ville
+{% endhint %}
+
+### <mark style="color:blue;">Étape 5</mark>
+
+Ajouter les permissions aux Locataires
+
+Ouvrez le menu du /ville, cliquez sur Sous-Zones puis cliquez sur la sous-zone créée.
+
+Vous arriverez sur un menu similaire au /ville.
+
+Cliquez sur Rôles, puis créez un nouveau Rôle pour vôtre locataire. Ajoutez-lui les permissions que vous souhaitez. Une fois cela fini, ajoutez à vôtre locataire le nouveau rôle que vous venez de créer .
+
 Toutes nos félicitations ! 🥳
 
 Vous savez à présent créer de nouvelles zones, gérables dans la section zones de votre menu ville.
